@@ -1,6 +1,6 @@
 ## Olá, Devs! 👋
 
-Tenho 29 anos, moro em Curitiba/PR, sou estudante do curso de Análise e Desenvolvindo de Sistemas e iniciante no iniverso da programação 🚀
+Tenho 29 anos, moro em Curitiba/PR, cursando Análise e Desenvolvindo de Sistemas e iniciante no universo da programação 🚀
 
 Apaixonado por futebol e games!
 
