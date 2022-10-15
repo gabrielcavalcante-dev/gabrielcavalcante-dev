@@ -1,4 +1,10 @@
-## Olá, Mundo! 👋
+## Olá, Devs! 👋
+
+Tenho 29 anos, moro em Curitiba/PR
+Sou estudante do curso de Análise e Desenvolvindo de Sistemas - UNINTER
+Iniciante no universo da programação, e interessado em evoluir! 🚀
+
+Apaixonado por futebol ⚽ e games 🎮.
 
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielcavalcante-dev&theme=dracula&show_icons=true"/>
