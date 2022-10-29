@@ -8,6 +8,8 @@ Apaixonado por futebol e games!
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielcavalcante-dev&theme=dracula&show_icons=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcavalcante-dev&langs_count=8&theme=dracula"/>
+            
+<br>
 
 ## Estou aprendendo 
 <div style="display: inline_block">
