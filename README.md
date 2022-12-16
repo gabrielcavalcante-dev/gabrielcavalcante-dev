@@ -6,8 +6,8 @@ Apaixonado por futebol e games!
 <br>
 
 <div>
-<img align="center height="450" width="500" src="https://github-readme-stats.vercel.app/api?username=gabrielcavalcante-dev&theme=dracula&show_icons=true"/>
-<img align="center height="450" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcavalcante-dev&langs_count=8&theme=dracula"/>
+<img align="center height="200em" width="500" src="https://github-readme-stats.vercel.app/api?username=gabrielcavalcante-dev&theme=dracula&show_icons=true"/>
+<img align="center height="200em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcavalcante-dev&langs_count=8&theme=dracula"/>
             
 <br>
 
